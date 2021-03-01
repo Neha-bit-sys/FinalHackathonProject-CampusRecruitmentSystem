@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "395163341348",
+    "firebase_url": "https://stop-watch-by-neha-kausar.firebaseio.com",
+    "project_id": "stop-watch-by-neha-kausar",
+    "storage_bucket": "stop-watch-by-neha-kausar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395163341348:android:7bf297e1d14b726c50beb1",
+        "android_client_info": {
+          "package_name": "com.finalhackathonproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395163341348-7st9th5b5tihb1k4mnb2f8ofuus0v694.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa6Py-Sr3_9s17MO72pBZCHECHZx7I-j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395163341348-7st9th5b5tihb1k4mnb2f8ofuus0v694.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
